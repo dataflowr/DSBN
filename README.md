@@ -1,3 +1,8 @@
+# DL-DIY potential project ideas
+- conduct unsupervised domain adaptation (single or multiple source domains) by adjusting BatchNorm statistics only (without necessarily fine-tuning the network)
+
+-------------------
+
 # Domain-Specific Batch Normalization for Unsupervised Domain Adaptation (DSBN)
 Pytorch implementation of Domain-Specific Batch Normalization for Unsupervised Domain Adaptation (CVPR2019).
 ![BN vs DSBN](captions/dsbn.jpg)
